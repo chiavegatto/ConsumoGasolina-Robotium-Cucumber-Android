@@ -4,7 +4,7 @@ Esse é apenas um simples projeto para automatização do projeto [Consumo Gasol
 
 Para execução do projeto é necessário:
 ----
- * Ter o [Maven],[Android SDK] e [Java] instalados;
+ * Ter o [Maven],[Android SDK] e [Java] instalados.
 
 [Robotium]:https://code.google.com/p/robotium/
 [Cucumber-Android]:https://github.com/cucumber/cucumber-jvm/tree/master/android
